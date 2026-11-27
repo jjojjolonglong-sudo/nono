@@ -1,0 +1,21 @@
+{
+  "id": "nono",
+  "name": "nono 가계부",
+  "short_name": "nono",
+  "description": "돈 쓰지 말자 가계부",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EBDDEE",
+  "theme_color": "#F6CFD0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "related_applications": [
+    { "platform": "webapp", "url": "https://jjojjolonglong-sudo.github.io/nono/manifest.webmanifest" }
+  ]
+}
